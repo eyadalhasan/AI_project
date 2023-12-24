@@ -1,0 +1,6 @@
+0.6 r Apple 
+0.8 y Banana
+0.5 o Orange
+0.7 r Apple
+0.44 o Orange
+1.0 y Banana
